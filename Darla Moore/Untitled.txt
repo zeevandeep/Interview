@@ -1,0 +1,5 @@
+http://www.programcreek.com/2013/12/in-place-reorder-a-singly-linked-list-in-java/
+
+
+link list cycle why we put fast and fast.next in while loop rather just while slow.next
+

@@ -1,0 +1,9 @@
+By using ''.join
+
+list1 = ['1', '2', '3']
+str1 = ''.join(list1)
+Or if the list is of integers, convert the elements before joining them.
+
+list1 = [1, 2, 3]
+str1 = ''.join(str(e) for e in list1)
+shareimprove this answer
